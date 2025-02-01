@@ -124,7 +124,7 @@ table {
     border-radius: 10px;
     width: 288px;
     height: 288px;
-    background: url('/images/image-qr-code.png');
+    background: url('images/image-qr-code.png');
     background-size: cover;                   
     background-repeat: no-repeat;
     background-position: center center;
